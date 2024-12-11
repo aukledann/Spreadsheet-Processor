@@ -1,0 +1,3 @@
+C:/Users/annab/Big_Project_excel/cmake-build-debug/CMakeFiles/Big_Project_excel.dir
+C:/Users/annab/Big_Project_excel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/annab/Big_Project_excel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
