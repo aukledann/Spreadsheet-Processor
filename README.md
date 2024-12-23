@@ -1,4 +1,5 @@
-#Spreadsheet Processor App
+Spreadsheet Processor App
+===
 
 The Spreadsheet Processor App is a simplified Excel-like tool designed to perform essential spreadsheet functionalities, including:
 
