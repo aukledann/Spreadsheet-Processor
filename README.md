@@ -3,8 +3,8 @@
 The Spreadsheet Processor App is a simplified Excel-like tool designed to perform essential spreadsheet functionalities, including:
 
 **Calculations:** Supports functions like SUM, MIN, MAX, and COUNT for ranges of values.
-Cell and Range Operations: Allows copying individual cells or ranges of cells, even when they overlap.
-File Handling: Enables saving and loading spreadsheet data to/from a file.
+**Cell and Range Operations:** Allows copying individual cells or ranges of cells, even when they overlap.
+**File Handling:** Enables saving and loading spreadsheet data to/from a file.
 
 **Motivation:**
 I created this project to deepen my understanding of Object-Oriented Programming principles and to practice C++ syntax.
