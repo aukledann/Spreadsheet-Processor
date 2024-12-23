@@ -1,4 +1,4 @@
-Spreadsheet Processor App
+**Spreadsheet Processor App**
 The Spreadsheet Processor App is a simplified Excel-like tool designed to perform essential spreadsheet functionalities, including:
 
 Calculations: Supports functions like SUM, MIN, MAX, and COUNT for ranges of values.
